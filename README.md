@@ -1,1 +1,1 @@
-![Poster][figures/AAILab_Poster_Soonwoo.jpg]
+![Poster](figures/AAILab_Poster_Soonwoo.jpg)
