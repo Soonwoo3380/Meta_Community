@@ -1,0 +1,1 @@
+![Poster][./AAILab_Poster_Soonwoo.jpg]
